@@ -1,0 +1,12 @@
+body {
+    font-family: sans-serif;
+}
+
+#header {
+    float: left;
+}
+
+#app-container {
+    position: relative;
+    left: 100px;
+}
