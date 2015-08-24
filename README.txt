@@ -1,5 +1,5 @@
 
-Buggui car
+<b>Buggui car</b>
 
 An interactive car that can be moved, rotated and resized.
 
